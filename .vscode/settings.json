@@ -1,0 +1,7 @@
+{
+  "code-runner.executorMap": {
+    "typescript": "npx ts-node",
+  },
+  "window.zoomLevel": 1,
+  "typescript.tsdk": "node_modules\\typescript\\lib",
+}
